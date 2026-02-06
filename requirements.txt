@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+streamlit
+streamlit-agraph
+requests
+faker
+openai
+pydantic
