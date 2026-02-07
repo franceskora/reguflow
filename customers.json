@@ -5,11 +5,11 @@
     "email": "garzaanthony@example.org",
     "ip": "112.108.176.251",
     "wallet": "0xb917716340",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 12,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 2960.05
+    "deposit_amount": 3598.37
   },
   "8b8148f6": {
     "id": "8b8148f6",
@@ -17,11 +17,11 @@
     "email": "blakeerik@example.com",
     "ip": "41.243.96.76",
     "wallet": "0xb148641d5f",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 10,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 1753.0
+    "deposit_amount": 4698.37
   },
   "17be3111": {
     "id": "17be3111",
@@ -29,11 +29,11 @@
     "email": "lindsay78@example.org",
     "ip": "193.193.207.66",
     "wallet": "0xdade365303",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 9,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 1980.26
+    "deposit_amount": 635.81
   },
   "9e574f7a": {
     "id": "9e574f7a",
@@ -41,11 +41,11 @@
     "email": "williamsjeremy@example.com",
     "ip": "196.238.96.187",
     "wallet": "0x539f19d068",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 5,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 2124.13
+    "deposit_amount": 2255.14
   },
   "a2bc372f": {
     "id": "a2bc372f",
@@ -53,11 +53,11 @@
     "email": "jacqueline19@example.net",
     "ip": "107.234.190.220",
     "wallet": "0xfa25111b91",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 19,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 1090.4
+    "deposit_amount": 2436.62
   },
   "ece66fa2": {
     "id": "ece66fa2",
@@ -65,11 +65,11 @@
     "email": "perezantonio@example.com",
     "ip": "36.60.111.32",
     "wallet": "0xe774d80140",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 9,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 1986.77
+    "deposit_amount": 2771.14
   },
   "b7c93acf": {
     "id": "b7c93acf",
@@ -77,11 +77,11 @@
     "email": "ithomas@example.org",
     "ip": "184.104.97.23",
     "wallet": "0x45fce56f7d",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 18,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 3041.8
+    "deposit_amount": 584.03
   },
   "663f1c97": {
     "id": "663f1c97",
@@ -89,11 +89,11 @@
     "email": "ddavis@example.org",
     "ip": "106.143.73.72",
     "wallet": "0xf96a566ab2",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 19,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 4141.41
+    "deposit_amount": 925.36
   },
   "62801c45": {
     "id": "62801c45",
@@ -101,11 +101,11 @@
     "email": "frazierdanny@example.net",
     "ip": "186.226.183.173",
     "wallet": "0x52b60f1228",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 10,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 1560.93
+    "deposit_amount": 4241.58
   },
   "00d4af59": {
     "id": "00d4af59",
@@ -113,11 +113,11 @@
     "email": "williamrodriguez@example.net",
     "ip": "44.186.245.162",
     "wallet": "0x3217c22093",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 10,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 4667.8
+    "deposit_amount": 392.38
   },
   "f4188f3f": {
     "id": "f4188f3f",
@@ -125,11 +125,11 @@
     "email": "tracy15@example.com",
     "ip": "115.218.156.42",
     "wallet": "0x517d0f31b3",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 4,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 2341.33
+    "deposit_amount": 4478.6
   },
   "bb5e4bcf": {
     "id": "bb5e4bcf",
@@ -137,11 +137,11 @@
     "email": "donnaarroyo@example.org",
     "ip": "123.98.150.36",
     "wallet": "0xee812f64f9",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 19,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 2175.91
+    "deposit_amount": 1819.6
   },
   "badcc32a": {
     "id": "badcc32a",
@@ -149,11 +149,11 @@
     "email": "samuel87@example.org",
     "ip": "113.6.64.5",
     "wallet": "0xe901ca7cf8",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 6,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 2128.71
+    "deposit_amount": 2618.73
   },
   "96a402f2": {
     "id": "96a402f2",
@@ -161,11 +161,11 @@
     "email": "carlosjohnson@example.com",
     "ip": "79.59.119.203",
     "wallet": "0xa8ca1955a3",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 8,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 1375.27
+    "deposit_amount": 3978.36
   },
   "21df306f": {
     "id": "21df306f",
@@ -173,11 +173,11 @@
     "email": "kristenaguirre@example.org",
     "ip": "91.150.87.180",
     "wallet": "0x0b59061c59",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 2,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 3763.2
+    "deposit_amount": 2361.39
   },
   "baa4b71a": {
     "id": "baa4b71a",
@@ -185,11 +185,11 @@
     "email": "powellmatthew@example.org",
     "ip": "115.11.24.126",
     "wallet": "0x84e995a694",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 7,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 2634.79
+    "deposit_amount": 3741.59
   },
   "474ebc19": {
     "id": "474ebc19",
@@ -197,11 +197,11 @@
     "email": "williamsyvette@example.org",
     "ip": "194.242.13.119",
     "wallet": "0x71e64c6503",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 10,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 641.53
+    "deposit_amount": 2110.97
   },
   "dd59ba71": {
     "id": "dd59ba71",
@@ -209,11 +209,11 @@
     "email": "ybaker@example.com",
     "ip": "63.37.159.222",
     "wallet": "0x5121898d2e",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 2,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 461.75
+    "deposit_amount": 4966.27
   },
   "0ef8c2d6": {
     "id": "0ef8c2d6",
@@ -221,11 +221,11 @@
     "email": "williamsthomas@example.net",
     "ip": "105.72.34.245",
     "wallet": "0x39b2b90d34",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 15,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 1130.59
+    "deposit_amount": 2918.61
   },
   "acdabacc": {
     "id": "acdabacc",
@@ -233,11 +233,11 @@
     "email": "bethwilliams@example.org",
     "ip": "52.63.103.79",
     "wallet": "0x9a66f443fa",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 13,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 1830.68
+    "deposit_amount": 4526.34
   },
   "506e5a9a": {
     "id": "506e5a9a",
@@ -245,11 +245,11 @@
     "email": "stephen10@example.com",
     "ip": "134.102.23.197",
     "wallet": "0x5a24901dd0",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 4,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 3233.17
+    "deposit_amount": 1332.68
   },
   "21e8ac68": {
     "id": "21e8ac68",
@@ -257,11 +257,11 @@
     "email": "justin78@example.net",
     "ip": "32.128.44.124",
     "wallet": "0x9bac23948b",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 13,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 2059.38
+    "deposit_amount": 781.01
   },
   "a9d3d7c7": {
     "id": "a9d3d7c7",
@@ -269,11 +269,11 @@
     "email": "newtoneric@example.com",
     "ip": "149.241.192.42",
     "wallet": "0x4b72c60d24",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 17,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 2338.45
+    "deposit_amount": 1082.82
   },
   "81627cf1": {
     "id": "81627cf1",
@@ -281,11 +281,11 @@
     "email": "ccalderon@example.org",
     "ip": "40.95.89.104",
     "wallet": "0xee56a984b0",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 7,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 1223.24
+    "deposit_amount": 2745.81
   },
   "711c21c9": {
     "id": "711c21c9",
@@ -293,11 +293,11 @@
     "email": "landryhannah@example.org",
     "ip": "6.244.39.130",
     "wallet": "0x5e75ebe6cf",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 7,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 3714.19
+    "deposit_amount": 1856.04
   },
   "0ab54bde": {
     "id": "0ab54bde",
@@ -305,11 +305,11 @@
     "email": "nolanjason@example.org",
     "ip": "150.162.171.178",
     "wallet": "0x6c2f18a3cf",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 15,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 3413.29
+    "deposit_amount": 755.17
   },
   "f94d6204": {
     "id": "f94d6204",
@@ -317,11 +317,11 @@
     "email": "theresacochran@example.com",
     "ip": "85.66.134.209",
     "wallet": "0x31824717d9",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 18,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 4608.89
+    "deposit_amount": 3632.44
   },
   "dd334cc7": {
     "id": "dd334cc7",
@@ -329,11 +329,11 @@
     "email": "reyesbenjamin@example.com",
     "ip": "119.93.102.237",
     "wallet": "0x3aa87e0544",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 4,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 3099.79
+    "deposit_amount": 3674.26
   },
   "3a43b2ba": {
     "id": "3a43b2ba",
@@ -341,11 +341,11 @@
     "email": "michelle45@example.net",
     "ip": "13.76.99.205",
     "wallet": "0x0c08e6f646",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 8,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 4749.51
+    "deposit_amount": 282.1
   },
   "42deffcc": {
     "id": "42deffcc",
@@ -353,11 +353,11 @@
     "email": "carlsonmichael@example.com",
     "ip": "19.179.94.203",
     "wallet": "0x463dfa750c",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 7,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 4652.14
+    "deposit_amount": 3623.64
   },
   "0b5cea6a": {
     "id": "0b5cea6a",
@@ -365,11 +365,11 @@
     "email": "michaeljones@example.net",
     "ip": "218.11.152.208",
     "wallet": "0x4430a3dd6a",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 8,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 1043.57
+    "deposit_amount": 2124.81
   },
   "4ce1eb90": {
     "id": "4ce1eb90",
@@ -377,11 +377,11 @@
     "email": "angela36@example.net",
     "ip": "205.100.104.114",
     "wallet": "0x3ab81b5b5b",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 6,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 620.78
+    "deposit_amount": 4261.31
   },
   "d56f0350": {
     "id": "d56f0350",
@@ -389,11 +389,11 @@
     "email": "steven73@example.net",
     "ip": "21.110.28.164",
     "wallet": "0x47d8d987f5",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 19,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 3233.3
+    "deposit_amount": 1624.27
   },
   "a2086977": {
     "id": "a2086977",
@@ -401,11 +401,11 @@
     "email": "emilywalker@example.org",
     "ip": "104.189.74.153",
     "wallet": "0x0764349837",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 3,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 1013.75
+    "deposit_amount": 4905.34
   },
   "c4bbb7a9": {
     "id": "c4bbb7a9",
@@ -413,11 +413,11 @@
     "email": "jennifercruz@example.com",
     "ip": "112.22.182.40",
     "wallet": "0xdacaa820d4",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 18,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 4145.96
+    "deposit_amount": 2013.44
   },
   "1b494e15": {
     "id": "1b494e15",
@@ -425,11 +425,11 @@
     "email": "pwilliams@example.org",
     "ip": "30.222.91.127",
     "wallet": "0x48eb547553",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 6,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 3992.16
+    "deposit_amount": 1643.79
   },
   "513a7052": {
     "id": "513a7052",
@@ -437,11 +437,11 @@
     "email": "jrivas@example.com",
     "ip": "223.48.136.113",
     "wallet": "0x433d02697b",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 16,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 2835.98
+    "deposit_amount": 352.44
   },
   "a33dc7af": {
     "id": "a33dc7af",
@@ -449,11 +449,11 @@
     "email": "joshuajones@example.com",
     "ip": "117.95.161.171",
     "wallet": "0x65c725e16a",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 18,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 4925.94
+    "deposit_amount": 1856.09
   },
   "269cd696": {
     "id": "269cd696",
@@ -461,11 +461,11 @@
     "email": "perrymark@example.com",
     "ip": "45.60.198.79",
     "wallet": "0x0af844cdd0",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 14,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 2431.58
+    "deposit_amount": 4283.12
   },
   "95863a76": {
     "id": "95863a76",
@@ -473,11 +473,11 @@
     "email": "wwoods@example.com",
     "ip": "189.104.159.81",
     "wallet": "0xcdaf3d6e9f",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 6,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 3567.82
+    "deposit_amount": 284.9
   },
   "9a6ec2f5": {
     "id": "9a6ec2f5",
@@ -485,11 +485,11 @@
     "email": "vjohnson@example.net",
     "ip": "153.224.83.7",
     "wallet": "0xeb09451244",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 11,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 4527.0
+    "deposit_amount": 646.83
   },
   "20ac3703": {
     "id": "20ac3703",
@@ -497,11 +497,11 @@
     "email": "millerroy@example.com",
     "ip": "98.20.204.213",
     "wallet": "0xe6a9eca17a",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 17,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 3506.03
+    "deposit_amount": 1148.16
   },
   "56666f9f": {
     "id": "56666f9f",
@@ -509,11 +509,11 @@
     "email": "fking@example.com",
     "ip": "67.85.94.216",
     "wallet": "0x2d77699db3",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 8,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 2746.8
+    "deposit_amount": 566.84
   },
   "1190f938": {
     "id": "1190f938",
@@ -521,11 +521,11 @@
     "email": "jamessmith@example.org",
     "ip": "119.147.180.195",
     "wallet": "0x25a4aa97fd",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 16,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 141.71
+    "deposit_amount": 4554.69
   },
   "770c7798": {
     "id": "770c7798",
@@ -533,11 +533,11 @@
     "email": "stricklandfrank@example.com",
     "ip": "65.164.183.24",
     "wallet": "0x3d8cc64656",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 13,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 3997.93
+    "deposit_amount": 1755.67
   },
   "f54ad0a2": {
     "id": "f54ad0a2",
@@ -545,11 +545,11 @@
     "email": "curtisbarton@example.net",
     "ip": "135.191.93.186",
     "wallet": "0x552da9a5e4",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 8,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 129.14
+    "deposit_amount": 4679.15
   },
   "58e25888": {
     "id": "58e25888",
@@ -557,11 +557,11 @@
     "email": "alexander67@example.org",
     "ip": "27.151.11.93",
     "wallet": "0x7b8c920e46",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 17,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 4584.09
+    "deposit_amount": 1061.39
   },
   "272a6d8e": {
     "id": "272a6d8e",
@@ -569,11 +569,11 @@
     "email": "christina87@example.com",
     "ip": "24.150.178.62",
     "wallet": "0x7acd18cd98",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 1,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 3316.43
+    "deposit_amount": 1479.13
   },
   "162f8a24": {
     "id": "162f8a24",
@@ -581,11 +581,11 @@
     "email": "frogers@example.com",
     "ip": "97.178.107.228",
     "wallet": "0x1caa9c1822",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 5,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 4320.06
+    "deposit_amount": 4211.39
   },
   "e15ca666": {
     "id": "e15ca666",
@@ -593,11 +593,11 @@
     "email": "christophercortez@example.com",
     "ip": "2.246.23.122",
     "wallet": "0xaa5f485fb6",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 18,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 3147.91
+    "deposit_amount": 2844.8
   },
   "72bb912d": {
     "id": "72bb912d",
@@ -605,11 +605,11 @@
     "email": "kevinperkins@example.com",
     "ip": "6.192.3.224",
     "wallet": "0xb618e3cf3e",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 4,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 146.32
+    "deposit_amount": 4142.17
   },
   "5a104129": {
     "id": "5a104129",
@@ -617,11 +617,11 @@
     "email": "griffithleslie@example.net",
     "ip": "5.123.47.215",
     "wallet": "0xda42b2c732",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 18,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 218.48
+    "deposit_amount": 2324.61
   },
   "b97e6703": {
     "id": "b97e6703",
@@ -629,11 +629,11 @@
     "email": "wallkenneth@example.com",
     "ip": "104.57.243.162",
     "wallet": "0x6d54a5f456",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 4,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 4547.05
+    "deposit_amount": 1256.99
   },
   "f96b648a": {
     "id": "f96b648a",
@@ -641,11 +641,11 @@
     "email": "agarcia@example.net",
     "ip": "62.163.64.234",
     "wallet": "0x6411968978",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 20,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 2909.97
+    "deposit_amount": 436.73
   },
   "40a26c60": {
     "id": "40a26c60",
@@ -653,11 +653,11 @@
     "email": "kvasquez@example.net",
     "ip": "137.181.229.52",
     "wallet": "0x16616cd12b",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 12,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 4327.18
+    "deposit_amount": 4101.23
   },
   "15ce6a66": {
     "id": "15ce6a66",
@@ -665,11 +665,11 @@
     "email": "kimberlyjames@example.com",
     "ip": "59.113.242.177",
     "wallet": "0x48f39dc466",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 9,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 1924.46
+    "deposit_amount": 3672.82
   },
   "f5c9b047": {
     "id": "f5c9b047",
@@ -677,11 +677,11 @@
     "email": "josephmiller@example.org",
     "ip": "105.51.119.57",
     "wallet": "0xcb37ae5e2e",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 16,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 204.93
+    "deposit_amount": 3293.31
   },
   "980402a2": {
     "id": "980402a2",
@@ -689,11 +689,11 @@
     "email": "jacqueline71@example.net",
     "ip": "116.59.157.161",
     "wallet": "0x4d8902b960",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 8,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 4924.86
+    "deposit_amount": 3097.98
   },
   "cdccc33a": {
     "id": "cdccc33a",
@@ -701,11 +701,11 @@
     "email": "rebekahserrano@example.org",
     "ip": "83.175.233.112",
     "wallet": "0x82b7de6c4c",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 8,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 1363.75
+    "deposit_amount": 1143.27
   },
   "49e2623d": {
     "id": "49e2623d",
@@ -713,11 +713,11 @@
     "email": "gbender@example.net",
     "ip": "18.146.250.203",
     "wallet": "0x4f9e42358a",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 2,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 3906.89
+    "deposit_amount": 1561.1
   },
   "5283aac7": {
     "id": "5283aac7",
@@ -725,11 +725,11 @@
     "email": "keyemily@example.com",
     "ip": "139.54.83.46",
     "wallet": "0xe47675d0ed",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 10,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 1359.37
+    "deposit_amount": 3288.77
   },
   "473544f9": {
     "id": "473544f9",
@@ -737,11 +737,11 @@
     "email": "ecosta@example.com",
     "ip": "52.140.55.239",
     "wallet": "0x8483d1d0ed",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 2,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 3907.28
+    "deposit_amount": 3435.36
   },
   "6961929e": {
     "id": "6961929e",
@@ -749,11 +749,11 @@
     "email": "gibsonleonard@example.com",
     "ip": "89.222.1.14",
     "wallet": "0x3eff41ce85",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 7,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 2337.96
+    "deposit_amount": 3598.0
   },
   "a85c6e4a": {
     "id": "a85c6e4a",
@@ -761,11 +761,11 @@
     "email": "cindy77@example.org",
     "ip": "102.134.40.84",
     "wallet": "0x5dd4189365",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 17,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 1521.11
+    "deposit_amount": 3777.23
   },
   "7c16128d": {
     "id": "7c16128d",
@@ -773,11 +773,11 @@
     "email": "jennifercollins@example.org",
     "ip": "4.190.228.119",
     "wallet": "0xa3384f4efe",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 19,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 552.67
+    "deposit_amount": 714.62
   },
   "762172ed": {
     "id": "762172ed",
@@ -785,11 +785,11 @@
     "email": "william46@example.com",
     "ip": "192.111.153.73",
     "wallet": "0x98825c006d",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 8,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 720.22
+    "deposit_amount": 4388.81
   },
   "ebff8d15": {
     "id": "ebff8d15",
@@ -797,11 +797,11 @@
     "email": "hillkristy@example.com",
     "ip": "49.25.91.90",
     "wallet": "0xef67cdbd9c",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 15,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 3475.71
+    "deposit_amount": 368.72
   },
   "d664d264": {
     "id": "d664d264",
@@ -809,11 +809,11 @@
     "email": "seanwashington@example.com",
     "ip": "7.4.134.180",
     "wallet": "0x07abf7e875",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 9,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 4161.21
+    "deposit_amount": 4554.0
   },
   "fb140bc3": {
     "id": "fb140bc3",
@@ -821,11 +821,11 @@
     "email": "vwilliams@example.com",
     "ip": "152.102.23.85",
     "wallet": "0x874f5dcbc5",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 16,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 2358.27
+    "deposit_amount": 1844.32
   },
   "a6eab79e": {
     "id": "a6eab79e",
@@ -833,11 +833,11 @@
     "email": "molly71@example.net",
     "ip": "208.125.186.63",
     "wallet": "0x53d4626178",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 1,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 1342.29
+    "deposit_amount": 3999.11
   },
   "f84f16b3": {
     "id": "f84f16b3",
@@ -845,11 +845,11 @@
     "email": "cindy61@example.com",
     "ip": "169.97.72.75",
     "wallet": "0x72dfb3b680",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 7,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 1812.72
+    "deposit_amount": 3979.27
   },
   "c268283e": {
     "id": "c268283e",
@@ -857,11 +857,11 @@
     "email": "wendy16@example.org",
     "ip": "179.55.90.245",
     "wallet": "0xe343e521c4",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 4,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 521.82
+    "deposit_amount": 335.53
   },
   "0769165f": {
     "id": "0769165f",
@@ -869,11 +869,11 @@
     "email": "ryan38@example.com",
     "ip": "1.92.48.106",
     "wallet": "0x5dc8482cce",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 6,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 3466.54
+    "deposit_amount": 2704.94
   },
   "61ee6c5b": {
     "id": "61ee6c5b",
@@ -881,11 +881,11 @@
     "email": "jesselittle@example.com",
     "ip": "120.19.62.245",
     "wallet": "0x629f58c26b",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 5,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 2145.18
+    "deposit_amount": 2429.83
   },
   "ad77e82f": {
     "id": "ad77e82f",
@@ -893,11 +893,11 @@
     "email": "danielle64@example.com",
     "ip": "170.203.255.138",
     "wallet": "0xcb5ed587a1",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 17,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 1079.3
+    "deposit_amount": 1103.02
   },
   "3cb98350": {
     "id": "3cb98350",
@@ -905,11 +905,11 @@
     "email": "andrew64@example.org",
     "ip": "1.25.28.83",
     "wallet": "0x350f9af55a",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 2,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 2143.77
+    "deposit_amount": 3312.7
   },
   "e776b886": {
     "id": "e776b886",
@@ -917,11 +917,11 @@
     "email": "jeffery39@example.com",
     "ip": "136.192.253.177",
     "wallet": "0xf5fd2a5009",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 5,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 2349.79
+    "deposit_amount": 806.4
   },
   "0a17991e": {
     "id": "0a17991e",
@@ -929,11 +929,11 @@
     "email": "christopherphillips@example.net",
     "ip": "44.217.210.109",
     "wallet": "0x8dd349a429",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 18,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 229.84
+    "deposit_amount": 3480.39
   },
   "5da8d6d2": {
     "id": "5da8d6d2",
@@ -941,11 +941,11 @@
     "email": "robin74@example.net",
     "ip": "211.175.120.98",
     "wallet": "0xe5c23c9583",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 17,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 662.38
+    "deposit_amount": 2978.19
   },
   "f76c8ede": {
     "id": "f76c8ede",
@@ -953,11 +953,11 @@
     "email": "zcoffey@example.net",
     "ip": "57.64.181.168",
     "wallet": "0x0d2f052085",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 16,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 232.45
+    "deposit_amount": 358.41
   },
   "5e5ba13d": {
     "id": "5e5ba13d",
@@ -965,11 +965,11 @@
     "email": "daniel37@example.org",
     "ip": "148.254.14.10",
     "wallet": "0x5df3381608",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 2,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 478.53
+    "deposit_amount": 3992.95
   },
   "a2a9d4d8": {
     "id": "a2a9d4d8",
@@ -977,11 +977,11 @@
     "email": "cwilson@example.org",
     "ip": "63.135.41.104",
     "wallet": "0x5bbde08955",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 13,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 4884.05
+    "deposit_amount": 3132.53
   },
   "22bae10e": {
     "id": "22bae10e",
@@ -989,11 +989,11 @@
     "email": "umatthews@example.org",
     "ip": "211.43.47.107",
     "wallet": "0xf11ee0b083",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 3,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 2760.26
+    "deposit_amount": 4679.49
   },
   "f396ea37": {
     "id": "f396ea37",
@@ -1001,11 +1001,11 @@
     "email": "xsampson@example.org",
     "ip": "192.43.193.53",
     "wallet": "0x4ebc9ce81d",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 2,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 3429.3
+    "deposit_amount": 2551.76
   },
   "0f8035f5": {
     "id": "0f8035f5",
@@ -1013,11 +1013,11 @@
     "email": "ndavis@example.net",
     "ip": "129.93.235.170",
     "wallet": "0xb5e9004b66",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 6,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 2447.55
+    "deposit_amount": 4230.34
   },
   "203c8c25": {
     "id": "203c8c25",
@@ -1025,11 +1025,11 @@
     "email": "brendali@example.org",
     "ip": "41.113.135.17",
     "wallet": "0xa803fa0b5e",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 1,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 299.59
+    "deposit_amount": 4604.63
   },
   "dbc080fd": {
     "id": "dbc080fd",
@@ -1037,11 +1037,11 @@
     "email": "guerreroanthony@example.org",
     "ip": "47.58.69.121",
     "wallet": "0x288225f104",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 20,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 638.71
+    "deposit_amount": 2494.44
   },
   "0d6a05b3": {
     "id": "0d6a05b3",
@@ -1049,11 +1049,11 @@
     "email": "alvarezkimberly@example.net",
     "ip": "156.237.168.38",
     "wallet": "0x659ab3e09a",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 15,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 3909.12
+    "deposit_amount": 2209.05
   },
   "ba2c98ce": {
     "id": "ba2c98ce",
@@ -1061,11 +1061,11 @@
     "email": "bschneider@example.org",
     "ip": "198.115.104.49",
     "wallet": "0xda28332391",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 8,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 1150.52
+    "deposit_amount": 741.21
   },
   "e8e22743": {
     "id": "e8e22743",
@@ -1073,11 +1073,11 @@
     "email": "cameronhill@example.net",
     "ip": "148.207.214.156",
     "wallet": "0xf30036180b",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 7,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 3091.92
+    "deposit_amount": 2522.47
   },
   "7426b193": {
     "id": "7426b193",
@@ -1085,11 +1085,11 @@
     "email": "farrelldebra@example.net",
     "ip": "182.225.120.12",
     "wallet": "0xdceba6bbd5",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 19,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 3794.81
+    "deposit_amount": 1943.9
   },
   "56c438e4": {
     "id": "56c438e4",
@@ -1097,11 +1097,11 @@
     "email": "ronald45@example.org",
     "ip": "158.90.103.180",
     "wallet": "0xe9d69bfe64",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 14,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 3082.33
+    "deposit_amount": 4720.37
   },
   "6e8f75a1": {
     "id": "6e8f75a1",
@@ -1109,11 +1109,11 @@
     "email": "willisanna@example.com",
     "ip": "154.74.176.78",
     "wallet": "0x0d26957f3e",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 3,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 353.43
+    "deposit_amount": 4347.82
   },
   "6c4596f6": {
     "id": "6c4596f6",
@@ -1121,11 +1121,11 @@
     "email": "michael98@example.org",
     "ip": "111.183.12.59",
     "wallet": "0x82edcab573",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 6,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 3439.15
+    "deposit_amount": 449.42
   },
   "8e676a01": {
     "id": "8e676a01",
@@ -1133,11 +1133,11 @@
     "email": "xbruce@example.net",
     "ip": "129.174.36.140",
     "wallet": "0x8eb31878aa",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 18,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 1217.16
+    "deposit_amount": 3770.57
   },
   "44777442": {
     "id": "44777442",
@@ -1145,11 +1145,11 @@
     "email": "michael22@example.net",
     "ip": "132.116.22.108",
     "wallet": "0x87cff5c673",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 19,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 2991.46
+    "deposit_amount": 3758.82
   },
   "177d6e7e": {
     "id": "177d6e7e",
@@ -1157,11 +1157,11 @@
     "email": "eric45@example.net",
     "ip": "131.93.241.104",
     "wallet": "0x3817133053",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 12,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 4689.73
+    "deposit_amount": 3570.24
   },
   "ac8936bc": {
     "id": "ac8936bc",
@@ -1169,11 +1169,11 @@
     "email": "nperry@example.net",
     "ip": "91.131.180.122",
     "wallet": "0x6043edc734",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 3,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 872.44
+    "deposit_amount": 4954.11
   },
   "7c93f6cc": {
     "id": "7c93f6cc",
@@ -1181,11 +1181,11 @@
     "email": "smithkevin@example.org",
     "ip": "184.45.55.63",
     "wallet": "0x0a28b75a18",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 20,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 4641.03
+    "deposit_amount": 1579.76
   },
   "bf3c5140": {
     "id": "bf3c5140",
@@ -1193,11 +1193,11 @@
     "email": "vincentwhitaker@example.com",
     "ip": "66.181.20.140",
     "wallet": "0x72dcaa4c95",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 6,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 666.05
+    "deposit_amount": 4809.29
   },
   "dcb33df3": {
     "id": "dcb33df3",
@@ -1205,11 +1205,11 @@
     "email": "zroberts@example.org",
     "ip": "194.175.255.133",
     "wallet": "0xd3bf3444ca",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 4,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 2720.94
+    "deposit_amount": 2472.79
   },
   "b08a4895": {
     "id": "b08a4895",
@@ -1217,11 +1217,11 @@
     "email": "ryanmorales@example.org",
     "ip": "51.219.137.210",
     "wallet": "0x087a5a5859",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 7,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 614.29
+    "deposit_amount": 719.64
   },
   "2b0abedd": {
     "id": "2b0abedd",
@@ -1229,11 +1229,11 @@
     "email": "rebeccabailey@example.net",
     "ip": "202.75.158.0",
     "wallet": "0x327b0b6b6f",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 1,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 2560.14
+    "deposit_amount": 1204.92
   },
   "2c6a6e9a": {
     "id": "2c6a6e9a",
@@ -1241,11 +1241,11 @@
     "email": "stephanieburton@example.com",
     "ip": "190.93.110.142",
     "wallet": "0xdb4c6301f7",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 5,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 991.66
+    "deposit_amount": 4749.09
   },
   "a2a2e91f": {
     "id": "a2a2e91f",
@@ -1253,11 +1253,11 @@
     "email": "cjones@example.net",
     "ip": "49.148.64.217",
     "wallet": "0x1e21084acd",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 14,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 2228.96
+    "deposit_amount": 3211.63
   },
   "4f76e388": {
     "id": "4f76e388",
@@ -1265,11 +1265,11 @@
     "email": "chase19@example.net",
     "ip": "15.103.68.86",
     "wallet": "0xd4ca9c2b68",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 8,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 4361.59
+    "deposit_amount": 2151.69
   },
   "e5582e16": {
     "id": "e5582e16",
@@ -1277,11 +1277,11 @@
     "email": "marcalvarez@example.org",
     "ip": "202.230.170.247",
     "wallet": "0x9863e45031",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 19,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 1852.37
+    "deposit_amount": 3054.04
   },
   "fb7d9f1c": {
     "id": "fb7d9f1c",
@@ -1289,11 +1289,11 @@
     "email": "jasmineritter@example.net",
     "ip": "10.138.57.119",
     "wallet": "0x7d492f8565",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 19,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 3444.75
+    "deposit_amount": 4876.15
   },
   "68a51c68": {
     "id": "68a51c68",
@@ -1301,11 +1301,11 @@
     "email": "cameron18@example.net",
     "ip": "48.32.178.238",
     "wallet": "0x5e3e1c251b",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 16,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 1841.68
+    "deposit_amount": 985.38
   },
   "9a4a99b2": {
     "id": "9a4a99b2",
@@ -1313,11 +1313,11 @@
     "email": "sabrinacollins@example.net",
     "ip": "153.21.214.241",
     "wallet": "0xbe28bfff41",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 16,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 3787.72
+    "deposit_amount": 2840.84
   },
   "4f40c22f": {
     "id": "4f40c22f",
@@ -1325,11 +1325,11 @@
     "email": "elizabethcalderon@example.net",
     "ip": "198.151.236.136",
     "wallet": "0xe19042c551",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 15,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 2512.42
+    "deposit_amount": 4162.6
   },
   "04aac1b7": {
     "id": "04aac1b7",
@@ -1337,11 +1337,11 @@
     "email": "ilee@example.org",
     "ip": "70.121.23.26",
     "wallet": "0x1209275297",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 15,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 4639.9
+    "deposit_amount": 3965.46
   },
   "e238fe93": {
     "id": "e238fe93",
@@ -1349,11 +1349,11 @@
     "email": "carlamoore@example.org",
     "ip": "173.83.6.50",
     "wallet": "0xd278c2db6a",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 3,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 611.85
+    "deposit_amount": 1002.92
   },
   "ad261ec5": {
     "id": "ad261ec5",
@@ -1361,11 +1361,11 @@
     "email": "pyoung@example.com",
     "ip": "195.224.69.160",
     "wallet": "0x29bb6d43fe",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 2,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 2259.11
+    "deposit_amount": 167.42
   },
   "f2771f63": {
     "id": "f2771f63",
@@ -1373,11 +1373,11 @@
     "email": "ashaw@example.org",
     "ip": "162.54.225.96",
     "wallet": "0xa372f0d9bd",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 17,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 1880.02
+    "deposit_amount": 1555.64
   },
   "dfc620ce": {
     "id": "dfc620ce",
@@ -1385,11 +1385,11 @@
     "email": "mitchellkathryn@example.com",
     "ip": "20.183.20.133",
     "wallet": "0xcab960aa6e",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 6,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 2825.62
+    "deposit_amount": 760.6
   },
   "38d77b9a": {
     "id": "38d77b9a",
@@ -1397,11 +1397,11 @@
     "email": "gbrown@example.com",
     "ip": "113.78.65.128",
     "wallet": "0x02b4bca818",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 7,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 1662.74
+    "deposit_amount": 3278.29
   },
   "195d82f8": {
     "id": "195d82f8",
@@ -1409,11 +1409,11 @@
     "email": "benjaminlowery@example.com",
     "ip": "136.225.250.189",
     "wallet": "0xbf1be9868e",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 18,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 2909.97
+    "deposit_amount": 4549.39
   },
   "01582463": {
     "id": "01582463",
@@ -1421,11 +1421,11 @@
     "email": "anaacosta@example.net",
     "ip": "50.112.65.154",
     "wallet": "0x4364b66c8f",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 3,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 3935.71
+    "deposit_amount": 145.89
   },
   "6b79afcc": {
     "id": "6b79afcc",
@@ -1433,11 +1433,11 @@
     "email": "bcarlson@example.net",
     "ip": "11.222.250.132",
     "wallet": "0x9f2360f786",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 5,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 2725.2
+    "deposit_amount": 2457.24
   },
   "9d642932": {
     "id": "9d642932",
@@ -1445,11 +1445,11 @@
     "email": "millsmichael@example.net",
     "ip": "4.41.165.8",
     "wallet": "0x3667723b54",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 20,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 2588.73
+    "deposit_amount": 2722.51
   },
   "630aa767": {
     "id": "630aa767",
@@ -1457,11 +1457,11 @@
     "email": "john19@example.net",
     "ip": "180.68.228.51",
     "wallet": "0x689759cf15",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 1,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 1641.72
+    "deposit_amount": 3655.13
   },
   "a48e40f1": {
     "id": "a48e40f1",
@@ -1469,11 +1469,11 @@
     "email": "zwelch@example.org",
     "ip": "93.74.159.73",
     "wallet": "0x2ef350287b",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 18,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 4088.71
+    "deposit_amount": 2541.94
   },
   "33107475": {
     "id": "33107475",
@@ -1481,11 +1481,11 @@
     "email": "ihays@example.com",
     "ip": "121.135.97.60",
     "wallet": "0x7125ce149a",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 12,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 3155.33
+    "deposit_amount": 3009.22
   },
   "dda4f4a7": {
     "id": "dda4f4a7",
@@ -1493,11 +1493,11 @@
     "email": "vpreston@example.com",
     "ip": "220.95.100.218",
     "wallet": "0xcf43ae2f86",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 16,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 4940.57
+    "deposit_amount": 2736.68
   },
   "7f5db163": {
     "id": "7f5db163",
@@ -1505,11 +1505,11 @@
     "email": "acostachristian@example.net",
     "ip": "199.92.100.202",
     "wallet": "0x8e632c90b5",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 11,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 3234.21
+    "deposit_amount": 3920.6
   },
   "53f28f11": {
     "id": "53f28f11",
@@ -1517,11 +1517,11 @@
     "email": "cjackson@example.com",
     "ip": "27.72.42.118",
     "wallet": "0x0b5e84dc75",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 8,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 1000.54
+    "deposit_amount": 2483.1
   },
   "fae3114b": {
     "id": "fae3114b",
@@ -1529,11 +1529,11 @@
     "email": "zcox@example.net",
     "ip": "129.254.53.60",
     "wallet": "0x83e6d53ca9",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 3,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 187.44
+    "deposit_amount": 1791.76
   },
   "702c1821": {
     "id": "702c1821",
@@ -1541,11 +1541,11 @@
     "email": "michael90@example.net",
     "ip": "111.50.226.1",
     "wallet": "0x96f52828ab",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 20,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 1529.44
+    "deposit_amount": 1594.88
   },
   "13aec376": {
     "id": "13aec376",
@@ -1553,11 +1553,11 @@
     "email": "john10@example.net",
     "ip": "99.24.140.214",
     "wallet": "0xb059b5db2a",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 5,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 4418.26
+    "deposit_amount": 3391.21
   },
   "42a259a6": {
     "id": "42a259a6",
@@ -1565,11 +1565,11 @@
     "email": "igonzalez@example.org",
     "ip": "30.62.89.209",
     "wallet": "0x1aa3b1dc68",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 19,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 4834.15
+    "deposit_amount": 300.44
   },
   "d8741408": {
     "id": "d8741408",
@@ -1577,11 +1577,11 @@
     "email": "patricia22@example.com",
     "ip": "9.241.25.192",
     "wallet": "0x326dbd8c63",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 13,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 4519.89
+    "deposit_amount": 2409.03
   },
   "ca55e38b": {
     "id": "ca55e38b",
@@ -1589,11 +1589,11 @@
     "email": "cherylmiller@example.com",
     "ip": "62.162.114.250",
     "wallet": "0x65fd9dfa17",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 8,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 3111.04
+    "deposit_amount": 3580.9
   },
   "932cae01": {
     "id": "932cae01",
@@ -1601,11 +1601,11 @@
     "email": "howens@example.com",
     "ip": "75.165.72.181",
     "wallet": "0x860dc118df",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 2,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 1489.32
+    "deposit_amount": 2624.35
   },
   "e9247069": {
     "id": "e9247069",
@@ -1613,11 +1613,11 @@
     "email": "fred53@example.com",
     "ip": "201.34.221.143",
     "wallet": "0x1041a7277c",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 12,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 4638.14
+    "deposit_amount": 4464.26
   },
   "f4d375c1": {
     "id": "f4d375c1",
@@ -1625,11 +1625,11 @@
     "email": "shawgary@example.net",
     "ip": "109.102.227.203",
     "wallet": "0x16d5589e9c",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 18,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 904.87
+    "deposit_amount": 900.95
   },
   "dd20c3bf": {
     "id": "dd20c3bf",
@@ -1637,11 +1637,11 @@
     "email": "debra96@example.net",
     "ip": "159.223.219.2",
     "wallet": "0x6c8719b599",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 13,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 2858.55
+    "deposit_amount": 382.87
   },
   "f4e7069a": {
     "id": "f4e7069a",
@@ -1649,11 +1649,11 @@
     "email": "eevans@example.net",
     "ip": "92.34.127.27",
     "wallet": "0x49714b0fe6",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 18,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 1405.03
+    "deposit_amount": 4164.46
   },
   "9b4e164b": {
     "id": "9b4e164b",
@@ -1661,11 +1661,11 @@
     "email": "theresa25@example.net",
     "ip": "3.70.198.80",
     "wallet": "0x533d3c4da4",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 14,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 4349.38
+    "deposit_amount": 4116.93
   },
   "3f779cae": {
     "id": "3f779cae",
@@ -1673,11 +1673,11 @@
     "email": "kwright@example.com",
     "ip": "206.128.112.174",
     "wallet": "0xfa6bce53b3",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 13,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 2892.14
+    "deposit_amount": 1259.88
   },
   "83c501cb": {
     "id": "83c501cb",
@@ -1685,11 +1685,11 @@
     "email": "landrywilliam@example.org",
     "ip": "100.45.43.170",
     "wallet": "0x4d22dc2bf6",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 18,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 1570.36
+    "deposit_amount": 2027.72
   },
   "e1e0fffc": {
     "id": "e1e0fffc",
@@ -1697,11 +1697,11 @@
     "email": "booneryan@example.com",
     "ip": "188.231.117.23",
     "wallet": "0x45a737fa25",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 13,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 1149.88
+    "deposit_amount": 3665.64
   },
   "8fd33afc": {
     "id": "8fd33afc",
@@ -1709,11 +1709,11 @@
     "email": "rduran@example.net",
     "ip": "135.154.153.138",
     "wallet": "0xdb29041be6",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 7,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 2643.49
+    "deposit_amount": 1674.25
   },
   "cb7e6268": {
     "id": "cb7e6268",
@@ -1721,11 +1721,11 @@
     "email": "cporter@example.org",
     "ip": "85.80.137.247",
     "wallet": "0xe8d8955685",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 3,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 3882.23
+    "deposit_amount": 4017.64
   },
   "9b33e3a4": {
     "id": "9b33e3a4",
@@ -1733,11 +1733,11 @@
     "email": "francisco94@example.net",
     "ip": "63.89.165.199",
     "wallet": "0x97dcba4e94",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 16,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 748.32
+    "deposit_amount": 1844.48
   },
   "044251db": {
     "id": "044251db",
@@ -1745,11 +1745,11 @@
     "email": "laura09@example.com",
     "ip": "121.210.2.46",
     "wallet": "0xbf99bacd66",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 15,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 1850.82
+    "deposit_amount": 3279.44
   },
   "86341718": {
     "id": "86341718",
@@ -1757,11 +1757,11 @@
     "email": "lorraineallen@example.net",
     "ip": "200.112.136.115",
     "wallet": "0x495527097c",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 1,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 3311.51
+    "deposit_amount": 957.58
   },
   "26c432f6": {
     "id": "26c432f6",
@@ -1769,11 +1769,11 @@
     "email": "vsalas@example.net",
     "ip": "72.214.87.233",
     "wallet": "0xe7101fa4f6",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 1,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 887.97
+    "deposit_amount": 4081.36
   },
   "a987b218": {
     "id": "a987b218",
@@ -1781,11 +1781,11 @@
     "email": "vbarr@example.net",
     "ip": "48.235.79.88",
     "wallet": "0x9b91c9a66f",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 6,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 4456.63
+    "deposit_amount": 1810.03
   },
   "476cf68c": {
     "id": "476cf68c",
@@ -1793,11 +1793,11 @@
     "email": "kellie37@example.com",
     "ip": "24.192.42.5",
     "wallet": "0x34027a0ab3",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 13,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 2669.87
+    "deposit_amount": 4562.47
   },
   "6133a34d": {
     "id": "6133a34d",
@@ -1805,11 +1805,11 @@
     "email": "kellyroberts@example.net",
     "ip": "92.79.227.227",
     "wallet": "0x934865f597",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 14,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 3040.49
+    "deposit_amount": 4496.75
   },
   "33baba88": {
     "id": "33baba88",
@@ -1817,11 +1817,11 @@
     "email": "derrick99@example.org",
     "ip": "115.156.89.223",
     "wallet": "0xe0c6b4ae22",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 2,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 2300.01
+    "deposit_amount": 1354.08
   },
   "548e1f6b": {
     "id": "548e1f6b",
@@ -1829,11 +1829,11 @@
     "email": "oconnelltiffany@example.org",
     "ip": "62.113.220.232",
     "wallet": "0x79a442bbcd",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 1,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 2070.34
+    "deposit_amount": 4235.74
   },
   "4988e418": {
     "id": "4988e418",
@@ -1841,11 +1841,11 @@
     "email": "pearsonjesse@example.net",
     "ip": "177.49.140.22",
     "wallet": "0x28db82072e",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 14,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 2949.96
+    "deposit_amount": 1706.93
   },
   "d66d4627": {
     "id": "d66d4627",
@@ -1853,11 +1853,11 @@
     "email": "lfrench@example.net",
     "ip": "203.101.13.64",
     "wallet": "0xfd1832e6d0",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 1,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 4973.54
+    "deposit_amount": 4906.89
   },
   "9a4ffc0c": {
     "id": "9a4ffc0c",
@@ -1865,11 +1865,11 @@
     "email": "ismall@example.net",
     "ip": "22.43.130.207",
     "wallet": "0xa911f84140",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 16,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 2601.52
+    "deposit_amount": 1380.52
   },
   "757b6b29": {
     "id": "757b6b29",
@@ -1877,11 +1877,11 @@
     "email": "krystal93@example.org",
     "ip": "153.243.141.227",
     "wallet": "0x93c7775164",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 17,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 2562.04
+    "deposit_amount": 2083.15
   },
   "669d01ff": {
     "id": "669d01ff",
@@ -1889,11 +1889,11 @@
     "email": "shari04@example.com",
     "ip": "116.69.155.214",
     "wallet": "0xd5a37093af",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 14,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 4338.37
+    "deposit_amount": 1656.57
   },
   "92a81713": {
     "id": "92a81713",
@@ -1901,11 +1901,11 @@
     "email": "contrerassteven@example.org",
     "ip": "51.231.16.9",
     "wallet": "0x01c669ddda",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 13,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 599.26
+    "deposit_amount": 2904.26
   },
   "4b87959f": {
     "id": "4b87959f",
@@ -1913,11 +1913,11 @@
     "email": "vhernandez@example.net",
     "ip": "62.34.12.22",
     "wallet": "0x27ec6519ec",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 2,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 1145.91
+    "deposit_amount": 1832.94
   },
   "37e9d2e2": {
     "id": "37e9d2e2",
@@ -1925,11 +1925,11 @@
     "email": "foxallison@example.com",
     "ip": "71.46.109.206",
     "wallet": "0x850d8d8e31",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 9,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 4116.76
+    "deposit_amount": 164.9
   },
   "33c08bf1": {
     "id": "33c08bf1",
@@ -1937,11 +1937,11 @@
     "email": "nwilson@example.net",
     "ip": "133.209.252.225",
     "wallet": "0x0b024315e0",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 16,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 1461.94
+    "deposit_amount": 1614.33
   },
   "741423b5": {
     "id": "741423b5",
@@ -1949,11 +1949,11 @@
     "email": "tchambers@example.net",
     "ip": "80.73.6.237",
     "wallet": "0x0973991d6a",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 1,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 1911.35
+    "deposit_amount": 961.15
   },
   "12b2102d": {
     "id": "12b2102d",
@@ -1961,11 +1961,11 @@
     "email": "michaelcesar@example.com",
     "ip": "90.42.224.58",
     "wallet": "0x7c6fdcba67",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 6,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 827.22
+    "deposit_amount": 4206.47
   },
   "fa740cc8": {
     "id": "fa740cc8",
@@ -1973,11 +1973,11 @@
     "email": "ywest@example.com",
     "ip": "72.130.231.170",
     "wallet": "0x28e66e64f1",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 4,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 4624.55
+    "deposit_amount": 1568.54
   },
   "fe2b34d8": {
     "id": "fe2b34d8",
@@ -1985,11 +1985,11 @@
     "email": "maryavila@example.com",
     "ip": "29.146.116.242",
     "wallet": "0x3b2d04e1bd",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 11,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 724.02
+    "deposit_amount": 1723.22
   },
   "75eb89c2": {
     "id": "75eb89c2",
@@ -1997,11 +1997,11 @@
     "email": "johnsondonna@example.net",
     "ip": "176.128.43.157",
     "wallet": "0xee0ffdd922",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 1,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 1403.75
+    "deposit_amount": 1492.91
   },
   "08987462": {
     "id": "08987462",
@@ -2009,11 +2009,11 @@
     "email": "joymorales@example.org",
     "ip": "4.115.152.238",
     "wallet": "0x8d92a84cd6",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 3,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 3101.76
+    "deposit_amount": 3415.92
   },
   "d0d75e37": {
     "id": "d0d75e37",
@@ -2021,11 +2021,11 @@
     "email": "joel28@example.org",
     "ip": "49.156.31.53",
     "wallet": "0xa0aa65ee58",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 6,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 3536.09
+    "deposit_amount": 3793.26
   },
   "bc36dc59": {
     "id": "bc36dc59",
@@ -2033,11 +2033,11 @@
     "email": "wwilliams@example.net",
     "ip": "148.102.37.54",
     "wallet": "0x73335d94be",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 15,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 1074.72
+    "deposit_amount": 1452.31
   },
   "605fb1eb": {
     "id": "605fb1eb",
@@ -2045,11 +2045,11 @@
     "email": "kevinzimmerman@example.com",
     "ip": "221.52.167.105",
     "wallet": "0xa651850beb",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 3,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 3765.84
+    "deposit_amount": 2794.59
   },
   "636f6e5c": {
     "id": "636f6e5c",
@@ -2057,11 +2057,11 @@
     "email": "fboone@example.net",
     "ip": "182.24.108.234",
     "wallet": "0x886a98afd5",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 11,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 345.44
+    "deposit_amount": 4964.93
   },
   "9a591974": {
     "id": "9a591974",
@@ -2069,11 +2069,11 @@
     "email": "timothybooth@example.com",
     "ip": "32.251.58.63",
     "wallet": "0x9e1966f666",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 5,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 4234.83
+    "deposit_amount": 3428.24
   },
   "1e086f20": {
     "id": "1e086f20",
@@ -2081,11 +2081,11 @@
     "email": "randyallen@example.com",
     "ip": "188.46.97.137",
     "wallet": "0x2cf4ccfa1b",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 6,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 4713.81
+    "deposit_amount": 603.16
   },
   "42f5b3f5": {
     "id": "42f5b3f5",
@@ -2093,11 +2093,11 @@
     "email": "ugill@example.org",
     "ip": "58.125.212.252",
     "wallet": "0xa651609668",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 16,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 404.17
+    "deposit_amount": 243.37
   },
   "255b30e2": {
     "id": "255b30e2",
@@ -2105,11 +2105,11 @@
     "email": "mphillips@example.com",
     "ip": "115.238.130.152",
     "wallet": "0x6dbf83c55d",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 10,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 4254.01
+    "deposit_amount": 3923.48
   },
   "566a9ce7": {
     "id": "566a9ce7",
@@ -2117,11 +2117,11 @@
     "email": "umurray@example.com",
     "ip": "111.208.36.198",
     "wallet": "0xaba6e0a382",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 20,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 4331.56
+    "deposit_amount": 4568.4
   },
   "a44d9fec": {
     "id": "a44d9fec",
@@ -2129,11 +2129,11 @@
     "email": "landryelizabeth@example.org",
     "ip": "46.207.206.0",
     "wallet": "0x21d1f4e26b",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 9,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 2892.14
+    "deposit_amount": 331.96
   },
   "8177b661": {
     "id": "8177b661",
@@ -2141,11 +2141,11 @@
     "email": "bhopkins@example.org",
     "ip": "14.148.215.176",
     "wallet": "0xb1ba71e82f",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 8,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 689.66
+    "deposit_amount": 1758.0
   },
   "892621df": {
     "id": "892621df",
@@ -2153,11 +2153,11 @@
     "email": "ldrake@example.org",
     "ip": "212.195.196.170",
     "wallet": "0x6c1d90a15c",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 12,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 4541.25
+    "deposit_amount": 1793.86
   },
   "d0b1e3eb": {
     "id": "d0b1e3eb",
@@ -2165,11 +2165,11 @@
     "email": "pstevens@example.net",
     "ip": "113.74.52.247",
     "wallet": "0xe572076f3f",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 10,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 2404.55
+    "deposit_amount": 3837.42
   },
   "081c79d4": {
     "id": "081c79d4",
@@ -2177,11 +2177,11 @@
     "email": "walshjacqueline@example.org",
     "ip": "14.241.75.63",
     "wallet": "0xcd4fbb7cc5",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 14,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 631.26
+    "deposit_amount": 4170.52
   },
   "dba3496f": {
     "id": "dba3496f",
@@ -2189,11 +2189,11 @@
     "email": "jasonparrish@example.net",
     "ip": "17.125.111.134",
     "wallet": "0x9f0a57c84d",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 13,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 2051.26
+    "deposit_amount": 1326.49
   },
   "e63949d4": {
     "id": "e63949d4",
@@ -2201,11 +2201,11 @@
     "email": "alexis39@example.org",
     "ip": "188.190.215.74",
     "wallet": "0xca8fcaea85",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 18,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 490.19
+    "deposit_amount": 4967.29
   },
   "3d8f95f4": {
     "id": "3d8f95f4",
@@ -2213,11 +2213,11 @@
     "email": "patrick21@example.net",
     "ip": "187.17.71.240",
     "wallet": "0x5beb6a79d3",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 2,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 877.55
+    "deposit_amount": 4152.2
   },
   "1375ee90": {
     "id": "1375ee90",
@@ -2225,11 +2225,11 @@
     "email": "unovak@example.org",
     "ip": "156.213.208.121",
     "wallet": "0xfc49923a00",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 6,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 163.3
+    "deposit_amount": 3482.2
   },
   "601bfbcb": {
     "id": "601bfbcb",
@@ -2237,11 +2237,11 @@
     "email": "bartonkenneth@example.org",
     "ip": "178.160.14.46",
     "wallet": "0xe0d38ad84a",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 14,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 1861.23
+    "deposit_amount": 1384.66
   },
   "a247541d": {
     "id": "a247541d",
@@ -2249,11 +2249,11 @@
     "email": "smithkyle@example.com",
     "ip": "179.69.122.211",
     "wallet": "0xfadf9ffebb",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 15,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 4707.28
+    "deposit_amount": 1576.5
   },
   "8e969227": {
     "id": "8e969227",
@@ -2261,11 +2261,11 @@
     "email": "angela99@example.com",
     "ip": "208.101.24.38",
     "wallet": "0x8ff3626b9a",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 16,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 2883.64
+    "deposit_amount": 4198.93
   },
   "b98f5dbe": {
     "id": "b98f5dbe",
@@ -2273,11 +2273,11 @@
     "email": "ginajackson@example.com",
     "ip": "63.143.87.185",
     "wallet": "0x7a9f7703f3",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 1,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 3558.79
+    "deposit_amount": 4131.87
   },
   "6bcd5ce7": {
     "id": "6bcd5ce7",
@@ -2285,11 +2285,11 @@
     "email": "jennifersimpson@example.net",
     "ip": "96.219.20.84",
     "wallet": "0xc290e827db",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 5,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 4459.88
+    "deposit_amount": 1515.03
   },
   "550c2fe9": {
     "id": "550c2fe9",
@@ -2297,11 +2297,11 @@
     "email": "pcook@example.net",
     "ip": "84.133.199.34",
     "wallet": "0x2069f2ce97",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 13,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 3579.22
+    "deposit_amount": 2074.67
   },
   "506e50c7": {
     "id": "506e50c7",
@@ -2309,11 +2309,11 @@
     "email": "yfaulkner@example.org",
     "ip": "49.240.112.5",
     "wallet": "0xe649309f48",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 8,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 1752.71
+    "deposit_amount": 4795.8
   },
   "ee9bf3e1": {
     "id": "ee9bf3e1",
@@ -2321,11 +2321,11 @@
     "email": "bentonsteven@example.net",
     "ip": "101.149.41.93",
     "wallet": "0x8804da63d5",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 19,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 4829.82
+    "deposit_amount": 1672.47
   },
   "cbb02a8b": {
     "id": "cbb02a8b",
@@ -2333,11 +2333,11 @@
     "email": "john26@example.com",
     "ip": "94.171.200.0",
     "wallet": "0xe3922a22ab",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 15,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 4535.86
+    "deposit_amount": 2923.48
   },
   "eb9ed274": {
     "id": "eb9ed274",
@@ -2345,11 +2345,11 @@
     "email": "jacqueline89@example.net",
     "ip": "211.127.244.79",
     "wallet": "0x8c429d3e9b",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 7,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 324.85
+    "deposit_amount": 2290.42
   },
   "2a9528c3": {
     "id": "2a9528c3",
@@ -2357,11 +2357,11 @@
     "email": "vrasmussen@example.com",
     "ip": "70.79.145.224",
     "wallet": "0x453bd0860a",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 19,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 3312.97
+    "deposit_amount": 4131.44
   },
   "8ed8a80d": {
     "id": "8ed8a80d",
@@ -2369,11 +2369,11 @@
     "email": "rford@example.net",
     "ip": "137.165.206.19",
     "wallet": "0xbdf76f3d5b",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 5,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 3654.28
+    "deposit_amount": 4707.73
   },
   "4ba17233": {
     "id": "4ba17233",
@@ -2381,11 +2381,11 @@
     "email": "michaelcooper@example.org",
     "ip": "13.146.163.84",
     "wallet": "0x5768bc0280",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 13,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 1035.62
+    "deposit_amount": 2319.59
   },
   "73d39457": {
     "id": "73d39457",
@@ -2393,11 +2393,11 @@
     "email": "johnsonmatthew@example.org",
     "ip": "138.132.199.7",
     "wallet": "0x789b51bc37",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 13,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 3556.14
+    "deposit_amount": 947.56
   },
   "2ca8f783": {
     "id": "2ca8f783",
@@ -2405,11 +2405,11 @@
     "email": "zhall@example.net",
     "ip": "99.117.2.232",
     "wallet": "0xd178bfb371",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 8,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 820.54
+    "deposit_amount": 4255.08
   },
   "3283daa4": {
     "id": "3283daa4",
@@ -2417,11 +2417,11 @@
     "email": "jamiegoodwin@example.org",
     "ip": "139.247.38.100",
     "wallet": "0xd84e4ce9ab",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 12,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 1424.88
+    "deposit_amount": 3757.71
   },
   "43299780": {
     "id": "43299780",
@@ -2429,11 +2429,11 @@
     "email": "candice96@example.net",
     "ip": "86.134.235.195",
     "wallet": "0x001366a5f0",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 5,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 3315.79
+    "deposit_amount": 1642.21
   },
   "ac7051d1": {
     "id": "ac7051d1",
@@ -2441,11 +2441,11 @@
     "email": "powerslawrence@example.org",
     "ip": "43.183.0.95",
     "wallet": "0x8d8fcf0181",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 14,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 1201.63
+    "deposit_amount": 652.01
   },
   "6b11b7cb": {
     "id": "6b11b7cb",
@@ -2453,11 +2453,11 @@
     "email": "sreid@example.net",
     "ip": "205.98.200.237",
     "wallet": "0xd490e66f70",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 10,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 1652.14
+    "deposit_amount": 4897.61
   },
   "2fe5b140": {
     "id": "2fe5b140",
@@ -2465,11 +2465,11 @@
     "email": "stephanie72@example.org",
     "ip": "167.235.101.129",
     "wallet": "0xb05cbf8961",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 12,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 738.51
+    "deposit_amount": 3936.17
   },
   "d703262f": {
     "id": "d703262f",
@@ -2477,11 +2477,11 @@
     "email": "kellyhill@example.net",
     "ip": "61.68.192.238",
     "wallet": "0x338293cd11",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 9,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 4829.61
+    "deposit_amount": 3083.45
   },
   "8cbadae5": {
     "id": "8cbadae5",
@@ -2489,11 +2489,11 @@
     "email": "amber07@example.net",
     "ip": "118.205.111.1",
     "wallet": "0x68e1e4b0ae",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 20,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 4332.46
+    "deposit_amount": 155.92
   },
   "3f5e3b8c": {
     "id": "3f5e3b8c",
@@ -2501,11 +2501,11 @@
     "email": "michelle17@example.org",
     "ip": "183.149.15.230",
     "wallet": "0x311852e393",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 13,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 1209.75
+    "deposit_amount": 4534.48
   },
   "59c2f153": {
     "id": "59c2f153",
@@ -2513,11 +2513,11 @@
     "email": "kristenli@example.org",
     "ip": "145.253.76.6",
     "wallet": "0x98a60d217a",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 6,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 3964.29
+    "deposit_amount": 3299.35
   },
   "b43cde0a": {
     "id": "b43cde0a",
@@ -2525,11 +2525,11 @@
     "email": "taylorkaren@example.com",
     "ip": "216.223.213.154",
     "wallet": "0xb20784bf07",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 2,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 2036.56
+    "deposit_amount": 3147.8
   },
   "21f8072d": {
     "id": "21f8072d",
@@ -2537,11 +2537,11 @@
     "email": "kburns@example.net",
     "ip": "123.80.85.62",
     "wallet": "0xba5a6ad970",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 5,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 723.57
+    "deposit_amount": 2132.03
   },
   "e14fe093": {
     "id": "e14fe093",
@@ -2549,11 +2549,11 @@
     "email": "shawn75@example.net",
     "ip": "69.246.8.110",
     "wallet": "0xb3041623c3",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 20,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 2696.66
+    "deposit_amount": 1367.39
   },
   "b28187c4": {
     "id": "b28187c4",
@@ -2561,11 +2561,11 @@
     "email": "tammysummers@example.com",
     "ip": "122.68.204.114",
     "wallet": "0x8359374942",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 7,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 4352.17
+    "deposit_amount": 1007.9
   },
   "da385db5": {
     "id": "da385db5",
@@ -2573,11 +2573,11 @@
     "email": "simsmary@example.org",
     "ip": "74.28.102.230",
     "wallet": "0x325f60ed2f",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 17,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 4749.41
+    "deposit_amount": 3713.47
   },
   "6d84414d": {
     "id": "6d84414d",
@@ -2585,11 +2585,11 @@
     "email": "erik41@example.net",
     "ip": "37.70.96.195",
     "wallet": "0xb2bb4b49c1",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 18,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 2893.92
+    "deposit_amount": 1366.74
   },
   "0d41ee47": {
     "id": "0d41ee47",
@@ -2597,11 +2597,11 @@
     "email": "rubendavis@example.org",
     "ip": "94.132.0.79",
     "wallet": "0xe5bf95fcac",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 5,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 4488.45
+    "deposit_amount": 291.77
   },
   "ae13591e": {
     "id": "ae13591e",
@@ -2609,11 +2609,11 @@
     "email": "mcneilrobert@example.org",
     "ip": "23.83.136.97",
     "wallet": "0x8797bf6727",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 5,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 2195.37
+    "deposit_amount": 2439.24
   },
   "1a6b6a7d": {
     "id": "1a6b6a7d",
@@ -2621,11 +2621,11 @@
     "email": "darlenebyrd@example.org",
     "ip": "8.34.182.104",
     "wallet": "0x7246b8ecf4",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 11,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 2882.55
+    "deposit_amount": 3137.93
   },
   "b8f14e3c": {
     "id": "b8f14e3c",
@@ -2633,11 +2633,11 @@
     "email": "fheath@example.org",
     "ip": "71.225.206.209",
     "wallet": "0xec2c5e7994",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 4,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 3732.64
+    "deposit_amount": 378.35
   },
   "6dec6bbd": {
     "id": "6dec6bbd",
@@ -2645,11 +2645,11 @@
     "email": "wrightcarolyn@example.net",
     "ip": "129.183.125.178",
     "wallet": "0x2f630d31a4",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 4,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 3984.3
+    "deposit_amount": 3300.04
   },
   "34981735": {
     "id": "34981735",
@@ -2657,11 +2657,11 @@
     "email": "debbie37@example.com",
     "ip": "95.249.41.11",
     "wallet": "0xee4517868d",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 18,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 1268.19
+    "deposit_amount": 2049.77
   },
   "fa4a58ef": {
     "id": "fa4a58ef",
@@ -2669,11 +2669,11 @@
     "email": "kvalencia@example.com",
     "ip": "43.14.171.55",
     "wallet": "0x7439cab075",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 16,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 3815.8
+    "deposit_amount": 1689.12
   },
   "12af97e4": {
     "id": "12af97e4",
@@ -2681,11 +2681,11 @@
     "email": "livingstonstacy@example.com",
     "ip": "14.165.156.4",
     "wallet": "0x9676b0389d",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 17,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 2882.88
+    "deposit_amount": 1960.25
   },
   "895c4fde": {
     "id": "895c4fde",
@@ -2693,11 +2693,11 @@
     "email": "dixonjames@example.org",
     "ip": "7.32.55.214",
     "wallet": "0xc930b3c15a",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 10,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 1214.6
+    "deposit_amount": 4981.14
   },
   "ae59aa52": {
     "id": "ae59aa52",
@@ -2705,11 +2705,11 @@
     "email": "brianmiller@example.com",
     "ip": "67.133.150.196",
     "wallet": "0x2ddcf02695",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 11,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 3613.46
+    "deposit_amount": 2207.87
   },
   "2cf72140": {
     "id": "2cf72140",
@@ -2717,11 +2717,11 @@
     "email": "tylerreed@example.net",
     "ip": "184.75.192.75",
     "wallet": "0xc99e250fc7",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 16,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 1191.09
+    "deposit_amount": 1777.72
   },
   "df9b141e": {
     "id": "df9b141e",
@@ -2729,11 +2729,11 @@
     "email": "rogersruben@example.net",
     "ip": "68.238.183.36",
     "wallet": "0x0b4296e895",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 7,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 2924.19
+    "deposit_amount": 4496.3
   },
   "7fe670f3": {
     "id": "7fe670f3",
@@ -2741,11 +2741,11 @@
     "email": "shannonemily@example.org",
     "ip": "112.10.133.71",
     "wallet": "0x32e1804744",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 12,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 4507.2
+    "deposit_amount": 2384.74
   },
   "0bc57207": {
     "id": "0bc57207",
@@ -2753,11 +2753,11 @@
     "email": "tranrobin@example.net",
     "ip": "142.94.117.125",
     "wallet": "0x78455fe3f7",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 19,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 392.78
+    "deposit_amount": 3715.69
   },
   "51e744e4": {
     "id": "51e744e4",
@@ -2765,11 +2765,11 @@
     "email": "whitelinda@example.org",
     "ip": "200.70.148.166",
     "wallet": "0xc1b6e356e4",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 1,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 3094.09
+    "deposit_amount": 2191.73
   },
   "d847dc53": {
     "id": "d847dc53",
@@ -2777,11 +2777,11 @@
     "email": "james94@example.net",
     "ip": "157.176.249.144",
     "wallet": "0x6d63558078",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 7,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 1194.18
+    "deposit_amount": 4551.17
   },
   "c5c9fb91": {
     "id": "c5c9fb91",
@@ -2789,11 +2789,11 @@
     "email": "edwardrandolph@example.org",
     "ip": "117.138.243.147",
     "wallet": "0x03604e394d",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 12,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 4817.8
+    "deposit_amount": 2110.69
   },
   "f374190d": {
     "id": "f374190d",
@@ -2801,11 +2801,11 @@
     "email": "dalton83@example.com",
     "ip": "17.234.169.18",
     "wallet": "0x0666b29c33",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 9,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 4652.63
+    "deposit_amount": 2515.5
   },
   "17d09810": {
     "id": "17d09810",
@@ -2813,11 +2813,11 @@
     "email": "xhaynes@example.com",
     "ip": "193.43.120.84",
     "wallet": "0x36ef0879b0",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 3,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 4106.89
+    "deposit_amount": 4591.78
   },
   "d1e91691": {
     "id": "d1e91691",
@@ -2825,11 +2825,11 @@
     "email": "joelgreen@example.com",
     "ip": "220.147.17.123",
     "wallet": "0x4cca56c8dd",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 14,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 236.71
+    "deposit_amount": 2968.65
   },
   "73e7f042": {
     "id": "73e7f042",
@@ -2837,11 +2837,11 @@
     "email": "moorefrank@example.com",
     "ip": "39.186.38.147",
     "wallet": "0x75d2fcc05d",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 15,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 2370.33
+    "deposit_amount": 2491.16
   },
   "73b0d676": {
     "id": "73b0d676",
@@ -2849,11 +2849,11 @@
     "email": "lindseytorres@example.net",
     "ip": "130.148.195.126",
     "wallet": "0x0559e0903e",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 1,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 3124.1
+    "deposit_amount": 1291.33
   },
   "1759ba96": {
     "id": "1759ba96",
@@ -2861,11 +2861,11 @@
     "email": "byrdjorge@example.org",
     "ip": "89.225.143.236",
     "wallet": "0x6602be57c1",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 7,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 2671.57
+    "deposit_amount": 1039.78
   },
   "3ff6579e": {
     "id": "3ff6579e",
@@ -2873,11 +2873,11 @@
     "email": "smithmaria@example.org",
     "ip": "89.163.33.230",
     "wallet": "0xd1c40ec7c9",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 3,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 3559.64
+    "deposit_amount": 4239.24
   },
   "15839b99": {
     "id": "15839b99",
@@ -2885,11 +2885,11 @@
     "email": "osbornjames@example.net",
     "ip": "20.31.15.116",
     "wallet": "0xf064efb153",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 20,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 3553.1
+    "deposit_amount": 3787.81
   },
   "54e07431": {
     "id": "54e07431",
@@ -2897,11 +2897,11 @@
     "email": "zunderwood@example.com",
     "ip": "91.78.118.157",
     "wallet": "0x59e064e9df",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 5,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 3578.04
+    "deposit_amount": 1479.98
   },
   "46653497": {
     "id": "46653497",
@@ -2909,11 +2909,11 @@
     "email": "deborahporter@example.net",
     "ip": "18.206.157.108",
     "wallet": "0x1dfc85aa7b",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 9,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 4503.69
+    "deposit_amount": 2864.97
   },
   "a484e035": {
     "id": "a484e035",
@@ -2921,11 +2921,11 @@
     "email": "mayokimberly@example.com",
     "ip": "31.130.126.143",
     "wallet": "0x80ee385355",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 2,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 814.39
+    "deposit_amount": 2343.97
   },
   "636cf499": {
     "id": "636cf499",
@@ -2933,11 +2933,11 @@
     "email": "huangkimberly@example.org",
     "ip": "167.140.4.237",
     "wallet": "0x0051d17860",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 15,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 462.86
+    "deposit_amount": 3321.94
   },
   "3b964c74": {
     "id": "3b964c74",
@@ -2945,11 +2945,11 @@
     "email": "amanda03@example.net",
     "ip": "171.141.190.162",
     "wallet": "0x242369188e",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 11,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 4089.13
+    "deposit_amount": 3648.42
   },
   "2c78644f": {
     "id": "2c78644f",
@@ -2957,11 +2957,11 @@
     "email": "robin05@example.net",
     "ip": "1.96.96.41",
     "wallet": "0x1f03c874b9",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 2,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 516.23
+    "deposit_amount": 4666.03
   },
   "7e02921d": {
     "id": "7e02921d",
@@ -2969,11 +2969,11 @@
     "email": "halljeffery@example.net",
     "ip": "26.157.144.153",
     "wallet": "0x2d7cc82ea8",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 7,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 2863.51
+    "deposit_amount": 4357.86
   },
   "573bfc17": {
     "id": "573bfc17",
@@ -2981,11 +2981,11 @@
     "email": "brian29@example.net",
     "ip": "211.140.169.84",
     "wallet": "0x03610a2cc1",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 10,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 1693.07
+    "deposit_amount": 3615.64
   },
   "12916e60": {
     "id": "12916e60",
@@ -2993,11 +2993,11 @@
     "email": "rogersmarcus@example.org",
     "ip": "189.250.211.103",
     "wallet": "0x79b5a83e67",
-    "risk_score": 100,
-    "status": "BANNED",
+    "risk_score": 2,
+    "status": "ACTIVE",
     "last_login_location": "London, UK",
     "last_login_time": "10:00 AM",
-    "deposit_amount": 4276.07
+    "deposit_amount": 862.89
   },
   "bad_ip_0": {
     "id": "bad_ip_0",
@@ -3069,7 +3069,7 @@
     "status": "FLAGGED",
     "last_login_location": "Berlin, DE",
     "last_login_time": "11:00 AM",
-    "deposit_amount": 9959
+    "deposit_amount": 9914
   },
   "smurf_1": {
     "id": "smurf_1",
@@ -3081,7 +3081,7 @@
     "status": "FLAGGED",
     "last_login_location": "Berlin, DE",
     "last_login_time": "11:00 AM",
-    "deposit_amount": 9964
+    "deposit_amount": 9816
   },
   "smurf_2": {
     "id": "smurf_2",
@@ -3093,7 +3093,7 @@
     "status": "FLAGGED",
     "last_login_location": "Berlin, DE",
     "last_login_time": "11:00 AM",
-    "deposit_amount": 9828
+    "deposit_amount": 9933
   },
   "smurf_3": {
     "id": "smurf_3",
@@ -3105,7 +3105,7 @@
     "status": "FLAGGED",
     "last_login_location": "Berlin, DE",
     "last_login_time": "11:00 AM",
-    "deposit_amount": 9880
+    "deposit_amount": 9912
   },
   "travel_hacker": {
     "id": "travel_hacker",

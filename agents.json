@@ -3,73 +3,12 @@
     "name": "Frances (Agent)",
     "status": "ACTIVE",
     "strikes": 0,
-    "history": [
-      "[LOW] Unprofessionalism (Ticket: ticket_101)",
-      "[HIGH] Requesting credit card details (Ticket: ticket_101)",
-      "[ADMIN ACTION] Account Unlocked",
-      "[HIGH] Requesting credit card details (Ticket: ticket_101)",
-      "[ADMIN ACTION] Account Unlocked",
-      "[HIGH] Asking for credit card details (Ticket: ticket_101)",
-      "[ADMIN ACTION] Account Unlocked"
-    ],
+    "history": [],
     "tickets": {
       "ticket_101": {
         "customer_name": "Alice (VIP)",
         "risk_score": 10,
-        "history": [
-          {
-            "role": "agent",
-            "text": "hi how can i help you today"
-          },
-          {
-            "role": "customer",
-            "text": "Hi! I have a question about my account. Can you assist me?"
-          },
-          {
-            "role": "agent",
-            "text": "sure, you can deposit up to $50,000"
-          },
-          {
-            "role": "customer",
-            "text": "Got it, thanks for the info!"
-          },
-          {
-            "role": "agent",
-            "text": "get lost, fool",
-            "blocked": true
-          },
-          {
-            "role": "agent",
-            "text": "youre welcome"
-          },
-          {
-            "role": "customer",
-            "text": "Thank you! How can I assist you today?"
-          },
-          {
-            "role": "agent",
-            "text": "give me your credit card details",
-            "blocked": true
-          },
-          {
-            "role": "agent",
-            "text": "give me your credit card details",
-            "blocked": true
-          },
-          {
-            "role": "agent",
-            "text": "okay then, what issue are you facing in your account"
-          },
-          {
-            "role": "customer",
-            "text": "I\u2019m having trouble accessing my recent transactions."
-          },
-          {
-            "role": "agent",
-            "text": "could you give me your credit card details",
-            "blocked": true
-          }
-        ]
+        "history": []
       },
       "ticket_102": {
         "customer_name": "Bob (Smurf)",
@@ -81,14 +20,6 @@
         "risk_score": 99,
         "history": []
       }
-    },
-    "transcript": [
-      "[23:21:10] [Ticket: Alice (VIP)] AGENT: give me your credit card details",
-      "\u274c BLOCKED: Requesting credit card details",
-      "[23:50:38] [Ticket: Alice (VIP)] AGENT: okay then, what issue are you facing in your account",
-      "[23:50:38] CUSTOMER: I\u2019m having trouble accessing my recent transactions.",
-      "[23:50:59] [Ticket: Alice (VIP)] AGENT: could you give me your credit card details",
-      "\u274c BLOCKED: Asking for credit card details"
-    ]
+    }
   }
 }
